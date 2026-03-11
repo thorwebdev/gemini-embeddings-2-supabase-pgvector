@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Multimodal Search - pgvector",
+  "description": "Search for matches across text, images, and audio with Gemini Embedding 2",
+  "requestFramePermissions": []
+}
